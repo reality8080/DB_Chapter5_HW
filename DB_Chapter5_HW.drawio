@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1600" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1433" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,13 +123,13 @@
           <mxGeometry x="740" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-66" value="Điểm" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="-160" y="450" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-67" value="Giáo viên" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-160" y="260" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-68" value="Biên lai" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="590" width="100" height="40" as="geometry" />
+          <mxGeometry x="-190" y="620" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-69" target="AD_Vnuwac_iUUBoUHSbE-67">
           <mxGeometry relative="1" as="geometry" />
@@ -161,11 +161,35 @@
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-73" value="Số điện thoại" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-380" y="360" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-80" target="AD_Vnuwac_iUUBoUHSbE-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-80" value="Điểm thực hành" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-390" y="480" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-81" target="AD_Vnuwac_iUUBoUHSbE-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-81" value="Điểm lý thuyết" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-390" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-84" target="AD_Vnuwac_iUUBoUHSbE-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-84" value="Mã Biên Lai" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-85" target="AD_Vnuwac_iUUBoUHSbE-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-85" value="Ngày đóng tiền" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-86" target="AD_Vnuwac_iUUBoUHSbE-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-86" value="Số tiền" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="680" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
