@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1150" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1533" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,17 +101,36 @@
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-41" value="Thông tin cơ bản" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="630" y="100" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-46" value="&amp;nbsp;ngày sinh" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="740" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-47" value=" quê quán" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="740" y="260" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-48" target="AD_Vnuwac_iUUBoUHSbE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-48" value="Họ tên" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="740" y="140" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-49" target="AD_Vnuwac_iUUBoUHSbE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-49" value=" địa chỉ" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="740" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-50" target="AD_Vnuwac_iUUBoUHSbE-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-50" value="điện thoại" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="740" y="370" width="100" height="40" as="geometry" />
