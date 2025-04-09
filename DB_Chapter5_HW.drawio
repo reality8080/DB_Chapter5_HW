@@ -290,7 +290,7 @@
             <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AD_Vnuwac_iUUBoUHSbE-121" value="Học" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="AD_Vnuwac_iUUBoUHSbE-121" value="Đăng kí" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="230" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-122" value="" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="AD_Vnuwac_iUUBoUHSbE-121" target="AD_Vnuwac_iUUBoUHSbE-17" edge="1">
@@ -331,7 +331,7 @@
             <mxPoint x="10" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VFWVKBjK8TIUi__gVWi3-12" value="Học xong" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="VFWVKBjK8TIUi__gVWi3-12" value="Kết quả" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="230" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VFWVKBjK8TIUi__gVWi3-13" value="" style="shape=link;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFWVKBjK8TIUi__gVWi3-12" target="AD_Vnuwac_iUUBoUHSbE-17">
