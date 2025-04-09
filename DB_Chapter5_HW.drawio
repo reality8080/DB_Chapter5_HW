@@ -307,9 +307,9 @@
         <mxCell id="AD_Vnuwac_iUUBoUHSbE-125" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="AD_Vnuwac_iUUBoUHSbE-124" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VFWVKBjK8TIUi__gVWi3-7" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD_Vnuwac_iUUBoUHSbE-121" target="AD_Vnuwac_iUUBoUHSbE-68">
+        <mxCell id="VFWVKBjK8TIUi__gVWi3-7" value="" style="shape=link;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="AD_Vnuwac_iUUBoUHSbE-68">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="450" as="sourcePoint" />
+            <mxPoint x="400" y="500" as="sourcePoint" />
             <mxPoint x="300" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
